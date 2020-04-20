@@ -1,0 +1,55 @@
+/*
+body {
+  background: url("Resources/assets/images/photo.png") bottom right no-repeat fixed;
+} */
+
+.limit{
+  max-width: 1000px;
+}
+
+.jumbotron {
+  background-color: white
+}
+
+.tab-pane{
+  position: relative;
+  top: 20px
+}
+
+.summary{
+  position: relative;
+  top: 30%
+}
+
+.tab {
+  text-align: center;
+}
+
+.tab2 {
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+
+#table {
+  position: relative;
+  top: 30px;
+  left: 30px;
+  text-align: center
+}
+
+td {
+  font-size: 11px;
+  color: black
+}
+
+th {
+  font-size: 11px;
+  color: black
+}
+
+.pagination {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
